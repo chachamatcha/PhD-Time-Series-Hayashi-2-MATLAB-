@@ -6,7 +6,16 @@ Hayashi Empirical Work
 %John Daniel Paletto
 %Last modified 12/10/15
 
+
+%
+
+
 RUN MAIN.m (PLUG AND PLAY)
+
+
+%
+
+
 
 %!@#$%^&*()PLEASE REFRAIN FROM CLICKING "RUN", PLEASE USE "RUN SECTION"!@#$%^&*()
 
